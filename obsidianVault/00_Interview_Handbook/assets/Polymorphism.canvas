@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"c2ecc48bc179483e","type":"text","text":"**Subclass: ModernElephant**\n---\n@Override\n+ getHair(): { return \"fine grey hair\"; }","x":-400,"y":60,"width":350,"height":150},
+		{"id":"b7f733438a8660bc","type":"text","text":"**Superclass: Elephantid**\n---\n+ getHair(): String","x":-305,"y":-100,"width":565,"height":100},
+		{"id":"5adf1dea216e0c21","type":"text","text":"**Subclass: Mammoth**\n---\n@Override\n+ getHair(): { return \"thick black hair\"; }","x":-10,"y":60,"width":360,"height":150},
+		{"id":"polymorphism_expl","type":"text","text":"**Polymorphism in Action:**\n\nElephantid e1 = new ModernElephant();\nElephantid e2 = new Mammoth();\n\ne1.getHair(); // Outputs: fine grey hair\ne2.getHair(); // Outputs: thick black hair","x":-400,"y":280,"width":750,"height":200}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"b7f733438a8660bc","fromSide":"bottom","toNode":"c2ecc48bc179483e","toSide":"top"},
+		{"id":"e2","fromNode":"b7f733438a8660bc","fromSide":"bottom","toNode":"5adf1dea216e0c21","toSide":"top"},
+		{"id":"e3","style":"dotted","fromNode":"c2ecc48bc179483e","fromSide":"bottom","toNode":"polymorphism_expl","toSide":"top"},
+		{"id":"e4","style":"dotted","fromNode":"5adf1dea216e0c21","fromSide":"bottom","toNode":"polymorphism_expl","toSide":"top"}
+	]
+}

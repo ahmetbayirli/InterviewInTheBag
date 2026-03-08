@@ -1,0 +1,11 @@
+{
+  "canvas:export-as-image": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ]
+}

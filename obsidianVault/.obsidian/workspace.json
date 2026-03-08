@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "7b9e1a62e39fced6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9c7c0819b87d570",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5661119aaeab168c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Interview_Handbook/01_Fundamentals/SOLID_Principles.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SOLID_Principles"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9931ff38b21486c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbc328ac9f05e483",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34abf5fe6c46a235",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6d65b66790fea2ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b8621866f250180a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "29b67cf3d1950808",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e7e280a7e4db7f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7c1f0028f79d8ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_Fundamentals/Polymorphism.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Polymorphism"
+            }
+          },
+          {
+            "id": "1fa56939764e23da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_Fundamentals/Polymorphism.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Polymorphism"
+            }
+          },
+          {
+            "id": "bff34e5b5505ff6b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b1a4b6c2ce8e4069",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f5f9283fa227e931",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_Fundamentals/Polymorphism.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Polymorphism"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5661119aaeab168c",
+  "lastOpenFiles": [
+    "00_Interview_Handbook/01_Fundamentals/OOP_Principles.md",
+    "00_Interview_Handbook/samples.md",
+    "00_Interview_Handbook/Interview_Handbook.md",
+    "00_Interview_Handbook/Interview Handbook.md",
+    "00_Interview_Handbook/00_Interview_Handbook.md",
+    "00_Interview_Handbook/assets/Polymorphism.canvas",
+    "foldernote.md",
+    "00_Interview_Handbook/01_Fundamentals/SOLID_Principles.md",
+    "01_Fundamentals/Deneme Note.md",
+    "01_Fundamentals/SOLID Principles.md",
+    "00_Interview_Handbook/assets/Polymorphism.png",
+    "00_Interview_Handbook/assets",
+    "sdsdf.md",
+    "untitled folder",
+    "00_Interview_Handbook/12_AI",
+    "00_Interview_Handbook/11_SoftwareDevelopmentLifeCycle",
+    "11_SoftwareDevelopmentCycle",
+    "00_Interview_Handbook/10_Security",
+    "00_Interview_Handbook/09_Network",
+    "00_Interview_Handbook/08_UI",
+    "00_Interview_Handbook/07_Mobile",
+    "00_Interview_Handbook/06_Java"
+  ]
+}
