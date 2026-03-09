@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a9c7c0819b87d570",
+        "id": "14ea7fd2426f5942",
         "type": "tabs",
         "children": [
           {
-            "id": "5661119aaeab168c",
+            "id": "8d114ea0df1b8f8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Interview_Handbook/01_Fundamentals/SOLID_Principles.md",
-                "mode": "preview",
+                "file": "00_Interview_Handbook/01_Fundamentals/Object_Oriented_Programming.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SOLID_Principles"
+              "title": "Object_Oriented_Programming"
             }
           }
         ]
@@ -183,16 +183,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "5661119aaeab168c",
+  "active": "8d114ea0df1b8f8b",
   "lastOpenFiles": [
-    "00_Interview_Handbook/01_Fundamentals/OOP_Principles.md",
-    "00_Interview_Handbook/samples.md",
-    "00_Interview_Handbook/Interview_Handbook.md",
     "00_Interview_Handbook/Interview Handbook.md",
+    "00_Interview_Handbook/01_Fundamentals/Object_Oriented_Programming.md",
+    "00_Interview_Handbook/01_Fundamentals/Aspect_Oriented_Programming.md",
+    "00_Interview_Handbook/01_Fundamentals/SOLID_Principles.md",
+    "00_Interview_Handbook/Interview_Handbook.md",
+    "Three laws of motion.md",
     "00_Interview_Handbook/00_Interview_Handbook.md",
+    "00_Interview_Handbook/samples.md",
     "00_Interview_Handbook/assets/Polymorphism.canvas",
     "foldernote.md",
-    "00_Interview_Handbook/01_Fundamentals/SOLID_Principles.md",
     "01_Fundamentals/Deneme Note.md",
     "01_Fundamentals/SOLID Principles.md",
     "00_Interview_Handbook/assets/Polymorphism.png",

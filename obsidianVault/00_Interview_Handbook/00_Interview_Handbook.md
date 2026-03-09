@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - **01_Fundamentals**
-	- [[OOP_Principles]]
+	- [[Aspect_Oriented_Programming]]
+	- [[Object_Oriented_Programming]]
 	- [[SOLID_Principles]]
 - **02_Database**
 - **03_OperatingSystems**

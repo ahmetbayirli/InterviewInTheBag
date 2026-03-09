@@ -13,7 +13,6 @@ OOP is a programming paradigm based on the concept of **"objects"**, which can c
 	- **Attributes (Properties):** Define what the object *is* (e.g., Brand, Color).
 	- **Functions (Methods):** Define what the object *does* (e.g., Drive, Brake).
 	- **State:** Defines the object's condition at a specific time (e.g., Current Speed, Fuel Level).
----
 
 ## 1. Encapsulation (Data Hiding)
 Encapsulation is the bundling of data and the methods that operate on that data into a single unit (class). It restricts direct access to some of an object's components.
