@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"weaving_result","type":"text","text":"**Weaving: The Advised Object (Proxy)**\n---\n1. Caller talks to the **Proxy** (The woven result).\n2. Proxy executes **Advice** (@Before security check).\n3. If valid, Proxy delegates to the **Target** (Core logic).\n\nThis can happen at **Compile-Time**, **Load-Time**, or **Runtime** (Dynamic Proxy).","x":120,"y":520,"width":640,"height":200},
+		{"id":"join_points","type":"text","text":"**Potential Join Points (The Where Options):**\n---\n1. `constructor()`\n2. `setServiceUrl()`\n3. **`performTransfer()`**\n4. `onException()`","x":-160,"y":200,"width":320,"height":250},
+		{"id":"target_object","type":"text","text":"**Target Object: TransferService**\n---\nCore Business Logic (clean)\n\n+ performTransfer(id, amount): void","x":-110,"y":-140,"width":400,"height":150},
+		{"id":"aspect","type":"text","text":"**Aspect: SecurityAspect**\n---\nEncapsulates Cross-Cutting Concern: Authentication & Authorization","x":290,"y":38,"width":370,"height":150},
+		{"id":"advice","type":"text","text":"**Advice (The What & When):**\n---\n// Inside SecurityAspect\n\n**@Before**:\n`checkUserIsAuthenticated();`","x":760,"y":25,"width":410,"height":175},
+		{"id":"pointcut","type":"text","text":"**Pointcut (The Who Filter):**\n---\nAn expression to select Join Points.\n\n`@Pointcut(\"execution(* com.bank.service.*.performTransfer(..))\")`","x":560,"y":270,"width":610,"height":150}
+	],
+	"edges":[
+		{"id":"e_advice_def","style":"dotted","fromNode":"aspect","fromSide":"right","toNode":"advice","toSide":"left"},
+		{"id":"e_pointcut_targets","style":"dotted","fromNode":"pointcut","fromSide":"left","toNode":"join_points","toSide":"right"},
+		{"id":"e_weaving_src1","fromNode":"target_object","fromSide":"bottom","toNode":"weaving_result","toSide":"top"},
+		{"id":"e_weaving_src2","fromNode":"aspect","fromSide":"bottom","toNode":"weaving_result","toSide":"top"},
+		{"id":"e_target_potential","fromNode":"target_object","fromSide":"bottom","toNode":"join_points","toSide":"top"},
+		{"id":"e_advice_applies","fromNode":"pointcut","fromSide":"top","toNode":"advice","toSide":"bottom"},
+		{"id":"e_weaving_method","fromNode":"join_points","fromSide":"bottom","toNode":"weaving_result","toSide":"top"}
+	]
+}

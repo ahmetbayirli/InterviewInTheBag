@@ -156,9 +156,6 @@
 
 # Fundamentals
 
----
-
-![samples](samples.md)
 
 --- 
 

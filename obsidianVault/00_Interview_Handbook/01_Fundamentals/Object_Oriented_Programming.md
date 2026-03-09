@@ -67,7 +67,7 @@ Abstraction is the process of hiding the implementation details and showing only
 ## Interview Questions
 
 1. **What is the difference between Abstraction and Encapsulation. **
-	* Abstraction is a design-level process that hides _complexity
+	* Abstraction is a design-level process that hides _complexity_
 	* Encapsulation is an implementation-level mechanism that hides _data_ (using private fields) 
 2. **What is the "Diamond Problem" in OOP, and how does Java handle it?**
    The **Diamond Problem** is an ambiguity that arises when a class inherits from two or more classes that have a common ancestor. Imagine a base class A with a method performAction(). Classes B and C both inherit from A and override performAction() with their own specific logic. If Class D were allowed to inherit from both B and C (Multiple Inheritance), and we called d.performAction(), the compiler wouldn't know which version to execute—the one from B or the one from C ?
@@ -107,3 +107,4 @@ Abstraction is the process of hiding the implementation details and showing only
 		- Achieved by defining a member variable of another class type.
 		- **Pros:** Flexible and decoupled. You can swap the "Engine" at runtime (Dependency Injection).
      **Senior Principle:** Always start with **Composition**. Only move to **Inheritance** if you are certain that a strict, permanent hierarchical relationship exists and that you need to take advantage of polymorphism across that specific hierarchy.
+---
