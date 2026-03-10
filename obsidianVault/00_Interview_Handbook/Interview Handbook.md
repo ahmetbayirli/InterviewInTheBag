@@ -175,6 +175,10 @@
 
 ---
 
+![[Design_Patterns]]
+
+---
+
 
 ![[SOLID_Principles]]
 

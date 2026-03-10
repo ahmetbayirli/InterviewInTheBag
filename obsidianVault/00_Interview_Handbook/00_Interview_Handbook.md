@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - **01_Fundamentals**
 	- [[Aspect_Oriented_Programming]]
+	- [[Design_Patterns]]
 	- [[Functional_Programming]]
 	- [[Object_Oriented_Programming]]
 	- [[Reactive_Programming]]
