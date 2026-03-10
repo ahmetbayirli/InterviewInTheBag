@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Aspect_Oriented_Programming"
             }
+          },
+          {
+            "id": "ce960e743f48e702",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Interview_Handbook/01_Fundamentals/Functional_Programming.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Functional_Programming"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,17 +198,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "8098c7513a11400f",
+  "active": "ce960e743f48e702",
   "lastOpenFiles": [
-    "00_Interview_Handbook/samples.md",
-    "00_Interview_Handbook/assets/Aspect Oriented Programming.canvas",
-    "00_Interview_Handbook/assets/Aspect Oriented Programming.png",
+    "00_Interview_Handbook/Interview Handbook.md",
+    "00_Interview_Handbook/01_Fundamentals/Functional_Programming.md",
     "00_Interview_Handbook/01_Fundamentals/Aspect_Oriented_Programming.md",
-    "00_Interview_Handbook/assets/Polymorphism.canvas",
-    "00_Interview_Handbook/assets/Polymorphism.png",
+    "00_Interview_Handbook/samples.md",
     "00_Interview_Handbook/01_Fundamentals/Object_Oriented_Programming.md",
     "00_Interview_Handbook/01_Fundamentals/SOLID_Principles.md",
-    "00_Interview_Handbook/Interview Handbook.md",
+    "00_Interview_Handbook/assets/Aspect Oriented Programming.png",
+    "00_Interview_Handbook/assets/Aspect Oriented Programming.canvas",
+    "00_Interview_Handbook/assets/Polymorphism.canvas",
+    "00_Interview_Handbook/assets/Polymorphism.png",
     "00_Interview_Handbook/Interview_Handbook.md",
     "Three laws of motion.md",
     "00_Interview_Handbook/00_Interview_Handbook.md",

@@ -163,6 +163,14 @@
 
 ---
 
+![Aspect_Oriented_Programming]
+
+---
+
+![Functional_Programming](Functional_Programming.md)
+
+---
+
 
 ![[SOLID_Principles]]
 

@@ -1,8 +1,11 @@
 ---
 id: top_101
-title: Object-Oriented Programming Principles
-tags: [fundamentals, oop, interview-essential]
-fun_fact: "Smalltalk was one of the first truly object-oriented languages, developed at Xerox PARC."
+title: Object-Oriented Programming
+tags:
+  - fundamentals
+  - oop
+  - interview-essential
+fun_fact: Smalltalk was one of the first truly object-oriented languages, developed at Xerox PARC.
 ---
 
 # Object-Oriented Programming (OOP) Principles 

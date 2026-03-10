@@ -1,11 +1,10 @@
 ---
 id: top_102
-title: Object-Oriented Programming Principles
+title: Aspect Oriented Programming
 tags:
   - fundamentals
   - oop
   - interview-essential
-fun_fact: Smalltalk was one of the first truly object-oriented languages, developed at Xerox PARC.
 ---
 
 # Aspect-Oriented Programming (AOP)
@@ -35,6 +34,11 @@ Regardless of the language or framework, AOP uses a specific set of concepts to 
 
 
 **AOP Example:**![Aspect Oriented Programming](Aspect%20Oriented%20Programming.png)
+
+Terminology is confusing here so explanation with an analogy.
+**Join Point**	Every door/window in the building.	Any point in the program execution (method call, etc.).	Where can I plug in?
+**Pointcut**	The rule: "Only 1st-floor doors."	An expression that filters/selects Join Points.	Which ones do I care about?
+Think like list of all joining points that you can interrupt and a fraction of them like cutting a pa
 
 ---
 

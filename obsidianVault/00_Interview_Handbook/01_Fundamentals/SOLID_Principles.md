@@ -1,8 +1,11 @@
 ---
 id: top_105
-title: SOLID Design Principles
-tags: [fundamentals, clean-code, architecture]
-fun_fact: "The SOLID acronym was introduced by Michael Feathers, based on principles collected by Robert C. Martin (Uncle Bob)."
+title: SOLID Principles
+tags:
+  - fundamentals
+  - clean-code
+  - architecture
+fun_fact: The SOLID acronym was introduced by Michael Feathers, based on principles collected by Robert C. Martin (Uncle Bob).
 ---
 
 # SOLID Principles
