@@ -3,6 +3,7 @@
 	- [[Aspect_Oriented_Programming]]
 	- [[Functional_Programming]]
 	- [[Object_Oriented_Programming]]
+	- [[Reactive_Programming]]
 	- [[SOLID_Principles]]
 - **02_Database**
 - **03_OperatingSystems**

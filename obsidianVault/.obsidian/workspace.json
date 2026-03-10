@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "00_Interview_Handbook/01_Fundamentals/Aspect_Oriented_Programming.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Interview_Handbook/01_Fundamentals/Functional_Programming.md",
-                "mode": "preview",
-                "source": true
+                "file": "00_Interview_Handbook/Interview Handbook.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Functional_Programming"
+              "title": "Interview Handbook"
             }
           }
         ],
@@ -200,14 +200,15 @@
   },
   "active": "ce960e743f48e702",
   "lastOpenFiles": [
-    "00_Interview_Handbook/Interview Handbook.md",
-    "00_Interview_Handbook/01_Fundamentals/Functional_Programming.md",
-    "00_Interview_Handbook/01_Fundamentals/Aspect_Oriented_Programming.md",
-    "00_Interview_Handbook/samples.md",
-    "00_Interview_Handbook/01_Fundamentals/Object_Oriented_Programming.md",
-    "00_Interview_Handbook/01_Fundamentals/SOLID_Principles.md",
     "00_Interview_Handbook/assets/Aspect Oriented Programming.png",
     "00_Interview_Handbook/assets/Aspect Oriented Programming.canvas",
+    "00_Interview_Handbook/Interview Handbook.md",
+    "00_Interview_Handbook/01_Fundamentals/Reactive_Programming.md",
+    "00_Interview_Handbook/01_Fundamentals/Aspect_Oriented_Programming.md",
+    "00_Interview_Handbook/01_Fundamentals/Object_Oriented_Programming.md",
+    "00_Interview_Handbook/01_Fundamentals/Functional_Programming.md",
+    "00_Interview_Handbook/samples.md",
+    "00_Interview_Handbook/01_Fundamentals/SOLID_Principles.md",
     "00_Interview_Handbook/assets/Polymorphism.canvas",
     "00_Interview_Handbook/assets/Polymorphism.png",
     "00_Interview_Handbook/Interview_Handbook.md",
