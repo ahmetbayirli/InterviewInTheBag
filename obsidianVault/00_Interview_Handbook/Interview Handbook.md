@@ -179,6 +179,9 @@
 
 ---
 
+![[Data_Structures]]
+
+---
 
 ![[SOLID_Principles]]
 
